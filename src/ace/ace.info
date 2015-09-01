@@ -1,0 +1,6 @@
+name = Ace Code Editor Plugin for TinyMCE
+description = This will turn the standard HTML code editor into an Ace HTML code editor
+dependencies[] = wysiwyg
+core = 7.x
+package = User interface
+version = 7.x-1.0
