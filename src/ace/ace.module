@@ -5,15 +5,6 @@
  * This will turn the standard HTML code editor into an Ace HTML code editor
  */
 
-/*
- * IMPORTANT NOTE:
- * When installing this module (ace), always click on
- * "check manually" inside the yellow "No update information available" message
- *
- * Also go to admin > config > performance and clear the cache.
- *
- */
-
 /**
  * Implements hook_wysiwyg_plugin().
  */
